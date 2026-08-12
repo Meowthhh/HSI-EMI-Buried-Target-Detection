@@ -1,6 +1,6 @@
 # HSI-EMI Buried Target Detection
 
-Depth- and material-resolved comparison of **VNIR hyperspectral imaging (HSI)** and **EM61-Lite electromagnetic induction (EMI)** for buried-target detection on the RIT/DIRS DRC Site 2 seeded field.
+Depth and material-resolved comparison of **VNIR hyperspectral imaging (HSI)** and **EM61-Lite electromagnetic induction (EMI)** for buried-target detection on the RIT/DIRS DRC Site 2 seeded field.
 
 ## Overview
 
